@@ -34,7 +34,7 @@ A FastAPI service that generates descriptive captions for images using the `nlpc
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/image-caption-api.git
+git clone https://github.com/qwrurodhs/image-caption-api.git
 cd image-caption-api
 
 # Create and activate virtual environment
